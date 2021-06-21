@@ -1,0 +1,16 @@
+
+
+
+{
+    "firstname":"nitish",
+    "lastname":"joshi",
+    "hobbies":["movies","music","coding"],
+    "age":34,
+    "haschild": true,
+    "comment":"always put double quote for json",
+    "child":[{
+        "firstname":"atharva",
+        "age":6
+        }
+    ]
+}

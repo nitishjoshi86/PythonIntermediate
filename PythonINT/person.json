@@ -1,0 +1,10 @@
+{
+    "age": 35,
+    "city": "rajkot",
+    "haschild": false,
+    "name": "joshi",
+    "titles": [
+        "engineer",
+        "programmer"
+    ]
+}
